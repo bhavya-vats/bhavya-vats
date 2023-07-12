@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Js,**
 
-- Bhavya's website [https://kaleidoscopic-wisp-171a39.netlify.app/](https://kaleidoscopic-wisp-171a39.netlify.app/)
+- Bhavya's website [https://kaleidoscopic-wisp-171a39.netlify.app/](https://bhavya-vats-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, Java**
 
